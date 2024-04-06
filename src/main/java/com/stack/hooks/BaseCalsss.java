@@ -9,6 +9,10 @@ import java.time.Duration;
 
 public class BaseCalsss {
 
-    WebDriver driver;
+  //  WebDriver driver;
+
+    //methods creating by prajwal
+
+    WebDriver driver = new ChromeDriver();
 
 }
